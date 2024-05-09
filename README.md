@@ -7,6 +7,8 @@ I am Israel from Lagos, Nigeria. I am a junior data analyst who recently complet
 𝄜 SPREADSHEETS
 📊 POWER BI
 
+## Example of work
+<img src="https://github.com/israelopalemo/israelopalemo/blob/main/2024-05-09%2017-11-44.gif" width="256"/>
 
 - 🔭 I’m currently working on **4-week program where I get to tackle real-life data analytics case studies**
 
