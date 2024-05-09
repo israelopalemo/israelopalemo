@@ -2,7 +2,7 @@
 
 <p align=”center”>
 
-<img width=”200" height=”200" src="https://github.com/israelopalemo/israelopalemo/assets/169277121/9271a2d1-ca2a-4cc0-b841-be223502e724.png" alt=”my banner”>
+<img width=”200" height=”200" src="(https://github.com/israelopalemo/israelopalemo/blob/main/Make%20your%20README%20(1).png)" alt=”my banner”>
 
 </p>
 
