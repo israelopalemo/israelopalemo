@@ -1,4 +1,4 @@
-![Entry Level Data Analyst](https://github.com/israelopalemo/israelopalemo/blob/main/Make%20your%20README%20(3).png)
+![Entry Level Data Analyst](https://github.com/israelopalemo/israelopalemo/blob/main/Make%20your%20README%20(4).png)
 
 # Hi there 👋, I'm Israel Opalemo
 I am Israel from Lagos, Nigeria. I am a junior data analyst who recently completed a six-month data analytics tech accelerator program from African Leadership Xccelerator (ALX) and ExploreAI. I enjoy working with complex datasets using spreadsheets and databases to identify trends and patterns. I also love to tell data stories through compelling visuals. 
@@ -14,7 +14,7 @@ I am Israel from Lagos, Nigeria. I am a junior data analyst who recently complet
 
 - 🌱 I’m currently learning **Spreadsheets,SQL, and PowerBI**
 
-- 💬 let's about **Data analytics**
+- 💬 let's talk about **Data analytics**
 
 - 📫 How to reach me **israelopalemo285@gmail.com**
 
